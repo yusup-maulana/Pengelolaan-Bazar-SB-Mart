@@ -1,0 +1,107 @@
+C:\Users\VAIO\AppData\Local\Temporary Projects\software bazar sb mart\bin\Debug\software bazar sb mart.exe
+C:\Users\VAIO\AppData\Local\Temporary Projects\software bazar sb mart\bin\Debug\software bazar sb mart.pdb
+C:\Users\VAIO\AppData\Local\Temporary Projects\software bazar sb mart\bin\Debug\software bazar sb mart.xml
+C:\Users\VAIO\AppData\Local\Temporary Projects\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.Form1.resources
+C:\Users\VAIO\AppData\Local\Temporary Projects\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.Resources.resources
+C:\Users\VAIO\AppData\Local\Temporary Projects\software bazar sb mart\obj\x86\Debug\software bazar sb mart.vbproj.GenerateResource.Cache
+C:\Users\VAIO\AppData\Local\Temporary Projects\software bazar sb mart\obj\x86\Debug\software bazar sb mart.exe
+C:\Users\VAIO\AppData\Local\Temporary Projects\software bazar sb mart\obj\x86\Debug\software bazar sb mart.xml
+C:\Users\VAIO\AppData\Local\Temporary Projects\software bazar sb mart\obj\x86\Debug\software bazar sb mart.pdb
+C:\Users\VAIO\documents\visual studio 2010\Projects\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.exe
+C:\Users\VAIO\documents\visual studio 2010\Projects\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.xml
+C:\Users\VAIO\documents\visual studio 2010\Projects\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.pdb
+C:\Users\VAIO\documents\visual studio 2010\Projects\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.exe.config
+C:\Users\VAIO\documents\visual studio 2010\Projects\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.exe
+C:\Users\VAIO\documents\visual studio 2010\Projects\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.pdb
+C:\Users\VAIO\documents\visual studio 2010\Projects\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.xml
+C:\Users\VAIO\documents\visual studio 2010\Projects\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.Form1.resources
+C:\Users\VAIO\documents\visual studio 2010\Projects\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.Resources.resources
+C:\Users\VAIO\documents\visual studio 2010\Projects\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.vbproj.GenerateResource.Cache
+C:\Users\VAIO\Documents\Visual Studio 2010\Projects\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.form_kelola_rak.resources
+C:\Users\VAIO\Documents\Visual Studio 2010\Projects\software bazar sb mart\software bazar sb mart\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\VAIO\Documents\Visual Studio 2010\Projects\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.vbprojResolveAssemblyReference.cache
+C:\Users\VAIO\Documents\Visual Studio 2010\Projects\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.fromlogin.resources
+D:\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.exe.config
+D:\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.exe
+D:\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.xml
+D:\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.pdb
+D:\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.exe
+D:\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.pdb
+D:\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.xml
+D:\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.vbprojResolveAssemblyReference.cache
+D:\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.Form1.resources
+D:\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.form_kelola_rak.resources
+D:\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.fromlogin.resources
+D:\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.Resources.resources
+D:\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.vbproj.GenerateResource.Cache
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.exe.config
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.exe
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.xml
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.pdb
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.exe
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.pdb
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.xml
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.vbprojResolveAssemblyReference.cache
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.Form1.resources
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.form_kelola_rak.resources
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.fromlogin.resources
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.Resources.resources
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.vbproj.GenerateResource.Cache
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.admin.resources
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.inputbarang.resources
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.kelolabarang.resources
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.exe.config
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.exe
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.xml
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.pdb
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.exe
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.pdb
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.xml
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.vbprojResolveAssemblyReference.cache
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.admin.resources
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.Form1.resources
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.form_kelola_rak.resources
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.fromlogin.resources
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.inputbarang.resources
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.kelolabarang.resources
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.Resources.resources
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.vbproj.GenerateResource.Cache
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.transaksi.resources
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.strukform.resources
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.daftarbarang.resources
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.daftarpemusnahan.resources
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.daftarterjualbazar.resources
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.keloladiskon.resources
+D:\Visual Studio\My\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.diskonform.resources
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.daftarbarang.resources
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.daftarpemusnahan.resources
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.daftarterjualbazar.resources
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.diskonform.resources
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.keloladiskon.resources
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.strukform.resources
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.transaksi.resources
+D:\SKRIPSI SUPRIATNA\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.lap_pemusnahan.resources
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.exe.config
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.exe
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.pdb
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\bin\Debug\software bazar sb mart.xml
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.admin.resources
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.daftarbarang.resources
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.daftarpemusnahan.resources
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.daftarterjualbazar.resources
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.diskonform.resources
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.Form1.resources
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.form_kelola_rak.resources
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.fromlogin.resources
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.inputbarang.resources
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.kelolabarang.resources
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.keloladiskon.resources
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.lap_pemusnahan.resources
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.Resources.resources
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.strukform.resources
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software_bazar_sb_mart.transaksi.resources
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.vbproj.GenerateResource.Cache
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.exe
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.xml
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.pdb
+E:\SERVER\New folder\software bazar sb mart\software bazar sb mart\obj\x86\Debug\software bazar sb mart.vbprojResolveAssemblyReference.cache

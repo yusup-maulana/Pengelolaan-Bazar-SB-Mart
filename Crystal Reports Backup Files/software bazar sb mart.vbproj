@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5BF0B1CA-2D48-4C71-A0E9-B477D38B07A8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>software_bazar_sb_mart.My.MyApplication</StartupObject>
+    <RootNamespace>software_bazar_sb_mart</RootNamespace>
+    <AssemblyName>software bazar sb mart</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>software bazar sb mart.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>software bazar sb mart.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>cropped_logo_sbmart_with_tagline_white_1_aem_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>J:\bunifu\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin.Designer.vb">
+      <DependentUpon>admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="daftarbarang.Designer.vb">
+      <DependentUpon>daftarbarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="daftarbarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="daftarpemusnahan.Designer.vb">
+      <DependentUpon>daftarpemusnahan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="daftarpemusnahan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="daftarterjualbazar.Designer.vb">
+      <DependentUpon>daftarterjualbazar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="daftarterjualbazar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="db_bazarDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>db_bazarDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="diskonform.Designer.vb">
+      <DependentUpon>diskonform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="diskonform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_kelola_rak.Designer.vb">
+      <DependentUpon>form_kelola_rak.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_kelola_rak.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fromlogin.Designer.vb">
+      <DependentUpon>fromlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fromlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inputbarang.Designer.vb">
+      <DependentUpon>inputbarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="inputbarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kelolabarang.Designer.vb">
+      <DependentUpon>kelolabarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="kelolabarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="keloladiskon.Designer.vb">
+      <DependentUpon>keloladiskon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="keloladiskon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lap_pemusnahan.Designer.vb">
+      <DependentUpon>lap_pemusnahan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lap_pemusnahan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pemusnahan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pemusnahan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="penjualan_bazar.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>penjualan_bazar.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="struk.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>struk.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="strukform.Designer.vb">
+      <DependentUpon>strukform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="strukform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaksi.Designer.vb">
+      <DependentUpon>transaksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="daftarbarang.resx">
+      <DependentUpon>daftarbarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="daftarpemusnahan.resx">
+      <DependentUpon>daftarpemusnahan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="daftarterjualbazar.resx">
+      <DependentUpon>daftarterjualbazar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diskonform.resx">
+      <DependentUpon>diskonform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_kelola_rak.resx">
+      <DependentUpon>form_kelola_rak.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fromlogin.resx">
+      <DependentUpon>fromlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inputbarang.resx">
+      <DependentUpon>inputbarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kelolabarang.resx">
+      <DependentUpon>kelolabarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="keloladiskon.resx">
+      <DependentUpon>keloladiskon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lap_pemusnahan.resx">
+      <DependentUpon>lap_pemusnahan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pemusnahan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>pemusnahan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="penjualan_bazar.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>penjualan_bazar.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="struk.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>struk.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="strukform.resx">
+      <DependentUpon>strukform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi.resx">
+      <DependentUpon>transaksi.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="db_bazarDataSet.xsc">
+      <DependentUpon>db_bazarDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="db_bazarDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>db_bazarDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="db_bazarDataSet.xss">
+      <DependentUpon>db_bazarDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cropped_logo_sbmart_with_tagline_white_1_aem_icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
