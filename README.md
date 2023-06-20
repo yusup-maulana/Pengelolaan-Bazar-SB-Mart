@@ -1,5 +1,64 @@
-<p>Sistem informasi Bazar SBmart yang dibuat menggunakan Visual Studio 2010 dengan Microsoft Acces 2013 sebagai database nya. aplikasi ini dibuat pada tahun 2017 untuk memenuhi tugas skripsi.</p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5JFBbXS2tcwRZMUEa5SHWaNaKCmombo1qietXZrjMqHD8GoQ-c617b9jssEHcpAfHAE4FIiRlm1awvBpgjQI6fQcXV3eLtaPi9KbXzAR4WyscNjL2NAXmnzVeNRRLO2DnBd2OFXSFBNSjFvT9tJIu8wsFGnl0p1k7j1t1tmk6N7VZv3sKSvVaUeQJgg/s1280/WhatsApp%20Image%202022-11-13%20at%2000.29.15.jpeg" style="margin-left: 1em; margin-right: 1em;"><img alt="Aplikasi Bazar SBmart menggunakan visual studio 2010 + Acces" border="0" data-original-height="722" data-original-width="1280" height="181" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5JFBbXS2tcwRZMUEa5SHWaNaKCmombo1qietXZrjMqHD8GoQ-c617b9jssEHcpAfHAE4FIiRlm1awvBpgjQI6fQcXV3eLtaPi9KbXzAR4WyscNjL2NAXmnzVeNRRLO2DnBd2OFXSFBNSjFvT9tJIu8wsFGnl0p1k7j1t1tmk6N7VZv3sKSvVaUeQJgg/w320-h181/WhatsApp%20Image%202022-11-13%20at%2000.29.15.jpeg" title="Aplikasi Bazar SBmart menggunakan visual studio 2010 + Acces" width="320" /></a></div><br /><p>Rancangan yang dilakukan berasal dari hasil analisa pada masa praktek kerja lapangan di SBmart bukit ligar kabupaten bandung tahun itu guna mempermudah pengelolaan data di bagian pemilahan rak barang yang mendekati expired untuk dibazarkan.</p><br />username : admin<br />password : admin
 
-<h3 style="text-align: left;">Fitur yang diunggulkan </h3><p></p><blockquote>Mengatur barang yang mendekati expired secara otomatis masuk kedalam list rak tertentu yang telah disesuaikan.</blockquote><p></p><p>Terdapat 1 sisi user utama sebagai admin utama dan bisa juga menambahkan user untuk di lain PC/laptop dengan syarat 1 yang menjadi server. Adapun fitur-fitur nya ini ialah sebegai berikut :</p><p></p><ol style="text-align: left;"><li><b>Master data&nbsp; barang,&nbsp; barang bazar terjual, pemusnahan (sisa bazar)</b></li><li><b>kelola Rak multi user dan Barang masuk</b></li><li><b>Kelola user/admin</b></li><li><b>Cetak Struk</b></li><li><b>Pencarian</b></li><li><b>Laporan expired bedasarkan priode maupaun yang telah di sesuaikan perbulan sampai 3 bulan terakhir</b></li></ol><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEQiUL6IznYqjDz1viDO3muL_kI2_Q5H3n5wcdnFS8Kw9tSEwH3jQ7fb75u6fi9VNJ6U7GM6AGw88uvXPzODdLZPUiRkS5v_LI47s4Pcm5_TKI5ODCmrAfeadB1OpHtzif6c1hH4F9yq_-uylX6zugw1BJ8y_vc6-5cLHh9Qreb4WvhP1ry-F30CGiUA/s1280/WhatsApp%20Image%202022-11-13%20at%2000.29.35.jpeg" style="margin-left: 1em; margin-right: 1em;"><img alt="Aplikasi Bazar SBmart menggunakan visual studio 2010 + Acces" border="0" data-original-height="721" data-original-width="1280" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEQiUL6IznYqjDz1viDO3muL_kI2_Q5H3n5wcdnFS8Kw9tSEwH3jQ7fb75u6fi9VNJ6U7GM6AGw88uvXPzODdLZPUiRkS5v_LI47s4Pcm5_TKI5ODCmrAfeadB1OpHtzif6c1hH4F9yq_-uylX6zugw1BJ8y_vc6-5cLHh9Qreb4WvhP1ry-F30CGiUA/w640-h360/WhatsApp%20Image%202022-11-13%20at%2000.29.35.jpeg" title="Aplikasi Bazar SBmart menggunakan visual studio 2010 + Acces" width="640" /></a></div><div><br /></div><div><h3 style="text-align: left;">Persiapkanlah ini sebelum menginstall aplikasi Bazar SBmart</h3><p><b>Langkah 1</b></p><p></p><ol style="text-align: left;"><li>Download <a href="https://downloads.i-theses.com/index.php?option=com_downloads&amp;task=downloads&amp;groupid=9&amp;id=101" target="_blank">Crystal Report runtime 13 di sini</a>, setelah itu install sampai dengan selesai!.</li><li>Download <a href="https://www.microsoft.com/en-ca/download/details.aspx?id=13255" target="_blank">MS Acces Engine</a>, jika di laptop/PC anda tidak menginstall microsoft office, kalau sudah ada, point ini abaikan saja.</li><li>Download <a href="https://dev.mysql.com/downloads/connector/odbc/" target="_blank">Connector/ODBC 8.0 disini</a>, lalu install sampai selesai</li><li>setelah langkah diatas sudah selesai, reboot PC/Laptop.</li></ol><p></p><p><b>Langkah 2</b></p><p></p><ol style="text-align: left;"><li>Download aplikasi <a href="https://drive.google.com/file/d/1VmwXVl1KCzwiZdsOQ4lT2kUZNJ2v7rUh/view?usp=share_link" target="_blank">Setup Bazar SBmart</a>, dan install sampai selesai (klik 2 kali di .msi, jika setup.exe tidak mau berjalan dan pastikan PC/laptop sudah mengintall <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" target="_blank">Net Framework</a> 4.5 atau diatasnya!)</li></ol><p></p>
+# Pengelolaan-Bazar-SB-Mart
 
-</div>
+Sistem Informasi Bazar SBmart adalah sebuah aplikasi yang dibangun menggunakan Visual Studio 2010 dengan Microsoft Access 2013 sebagai database. Aplikasi ini awalnya dikembangkan pada tahun 2017 sebagai bagian dari tugas skripsi.
+
+Aplikasi Bazar SBmart dirancang khusus untuk membantu pengelolaan data di bagian pemilahan rak barang yang mendekati masa kadaluwarsa untuk dijadikan bazar. Rancangan aplikasi ini didasarkan pada hasil analisis yang dilakukan selama masa praktek kerja lapangan di SBmart Bukit Ligar, Kabupaten Bandung.
+
+Penggunaan Visual Studio 2010 dan Access sebagai database memungkinkan aplikasi ini untuk memiliki berbagai fitur yang berguna. Dalam aplikasi ini, terdapat satu pengguna utama sebagai admin dengan username "admin" dan password "admin". Admin utama juga dapat menambahkan pengguna lain di komputer lain dengan syarat komputer tersebut berfungsi sebagai server.
+
+## Berikut adalah fitur unggulan dari aplikasi Bazar SBmart:
+- **Pengaturan Otomatis Rak Barang Mendekati Expired**: Aplikasi ini dapat secara otomatis mengelompokkan barang yang mendekati masa kadaluwarsa ke dalam rak tertentu yang telah ditentukan sebelumnya.
+- **Kelola Data Barang**: Pengguna dapat mengelola data barang, termasuk informasi barang bazar terjual dan pemusnahan barang sisa bazar.
+- **Kelola Rak dan Barang Masuk**: Pengguna dapat mengelola data rak yang digunakan untuk penyimpanan barang, serta mencatat barang yang masuk ke bazar.
+- **Kelola Pengguna/Admin**: Admin utama dapat mengelola pengguna atau admin lain yang memiliki akses ke aplikasi.
+- **Cetak Struk**: Aplikasi ini menyediakan fitur untuk mencetak struk pembelian atau penjualan barang.
+- **Pencarian**: Pengguna dapat melakukan pencarian data barang berdasarkan kriteria tertentu.
+- **Laporan Expired**: Aplikasi ini menyediakan laporan yang dapat disesuaikan berdasarkan periode, seperti laporan barang yang mendekati masa kadaluwarsa dalam rentang waktu satu bulan hingga tiga bulan terakhir.
+
+Sehingga Aplikasi Bazar SBmart membantu meningkatkan efisiensi dalam pengelolaan bazar dan pengaturan barang yang mendekati masa kadaluwarsa. Untuk mengakses aplikasi, gunakan username "admin" dan password "admin". Untuk informasi lebih lanjut atau pertanyaan, silakan hubungi tim pengembang aplikasi.
+## Installation With Raw
+Untuk membuka aplikasi Bazar SBmart menggunakan file sln/mentahan, ikuti langkah-langkah berikut:
+
+
+- ### Langkah 1:
+    - Unduh mentahan kode diatas
+
+    - Persiapkan file [Crystal Report runtime 13 dengan mengunduhnya di sini](https://downloads.i-theses.com/index.php?option=com_downloads&task=downloads&groupid=9&id=101). Setelah itu, instal perangkat lunak tersebut sampai selesai.
+    - Jika laptop atau PC Anda tidak memiliki Microsoft Office terinstal, [unduh dan instal juga MS Access Engine](https://www.microsoft.com/en-ca/download/details.aspx?id=13255). Jika Microsoft Office sudah terinstal, Anda dapat mengabaikan langkah ini.
+    - [Unduh Connector/ODBC 8.0 di sini](https://dev.mysql.com/downloads/connector/odbc/), kemudian instal perangkat lunak tersebut sampai selesai.
+    - Buka Visual Studio atau IDE (Integrated Development Environment).
+    - Dalam IDE, buka file sln/mentahan dengan mengklik "File" dan pilih "Open" atau "Open Project/Solution".
+    - Telusuri ke lokasi file sln/mentahan dan pilihnya untuk membuka proyek aplikasi
+    - Setelah file sln/mentahan terbuka, periksa dan pastikan bahwa semua dependensi atau paket yang diperlukan telah terpenuhi
+    - Jika ada paket yang hilang atau dependensi yang tidak terpenuhi, instal atau perbarui paket-paket tersebut sesuai petunjuk yang diberikan dalam proyek
+    - Setelah semua dependensi terpenuhi, lakukan kompilasi atau build pada proyek untuk menghasilkan file eksekusi atau aplikasi yang dapat dijalankan
+    - Setelah proses kompilasi selesai, Anda dapat menjalankan aplikasi Bazar SBmart dengan mengklik tombol "Run" atau "Start" dalam IDE
+
+Selesai
+## Installation Setup Only
+Sebelum menginstal aplikasi Bazar SBmart, pastikan Anda melakukan langkah-langkah persiapan berikut:
+
+- ### Langkah 1:
+
+    - Persiapkan file [Crystal Report runtime 13 dengan mengunduhnya di sini](https://downloads.i-theses.com/index.php?option=com_downloads&task=downloads&groupid=9&id=101). Setelah itu, instal perangkat lunak tersebut sampai selesai.
+    - Jika laptop atau PC Anda tidak memiliki Microsoft Office terinstal, [unduh dan instal juga MS Access Engine](https://www.microsoft.com/en-ca/download/details.aspx?id=13255). Jika Microsoft Office sudah terinstal, Anda dapat mengabaikan langkah ini.
+    - [Unduh Connector/ODBC 8.0 di sini](https://dev.mysql.com/downloads/connector/odbc/), kemudian instal perangkat lunak tersebut sampai selesai.
+    - Setelah menyelesaikan langkah-langkah di atas, restart PC atau laptop Anda.
+
+- ### Langkah 2:
+
+    - [Unduh aplikasi Setup Bazar SBmart](https://drive.google.com/file/d/1VmwXVl1KCzwiZdsOQ4lT2kUZNJ2v7rUh/view?usp=share_link).
+    - Install aplikasi tersebut dengan mengklik dua kali pada file .msi. Jika setup.exe tidak berjalan, pastikan PC atau laptop Anda telah menginstal [Net Framework versi 4.5](https://dotnet.microsoft.com/en-us/download/dotnet-framework) atau yang lebih baru.
+    - Setelah selesai mengikuti langkah-langkah di atas, Anda siap untuk menginstal dan menggunakan aplikasi Bazar SBmart. Pastikan untuk mengikuti petunjuk instalasi yang muncul selama proses instalasi.
+```
+install sampai selesai (klik 2 kali di .msi, jika setup.exe tidak mau berjalan dan pastikan PC/laptop sudah mengintall 
+```
+Jika Anda mengalami kesulitan atau memiliki pertanyaan lebih lanjut, jangan ragu untuk menghubungi
+Selesai
+## Screenshots
+
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5JFBbXS2tcwRZMUEa5SHWaNaKCmombo1qietXZrjMqHD8GoQ-c617b9jssEHcpAfHAE4FIiRlm1awvBpgjQI6fQcXV3eLtaPi9KbXzAR4WyscNjL2NAXmnzVeNRRLO2DnBd2OFXSFBNSjFvT9tJIu8wsFGnl0p1k7j1t1tmk6N7VZv3sKSvVaUeQJgg/s1280/WhatsApp%20Image%202022-11-13%20at%2000.29.15.jpeg)
+
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEQiUL6IznYqjDz1viDO3muL_kI2_Q5H3n5wcdnFS8Kw9tSEwH3jQ7fb75u6fi9VNJ6U7GM6AGw88uvXPzODdLZPUiRkS5v_LI47s4Pcm5_TKI5ODCmrAfeadB1OpHtzif6c1hH4F9yq_-uylX6zugw1BJ8y_vc6-5cLHh9Qreb4WvhP1ry-F30CGiUA/s1280/WhatsApp%20Image%202022-11-13%20at%2000.29.35.jpeg)
+
