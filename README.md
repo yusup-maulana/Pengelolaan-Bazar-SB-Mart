@@ -62,3 +62,11 @@ Selesai
 
 ![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEQiUL6IznYqjDz1viDO3muL_kI2_Q5H3n5wcdnFS8Kw9tSEwH3jQ7fb75u6fi9VNJ6U7GM6AGw88uvXPzODdLZPUiRkS5v_LI47s4Pcm5_TKI5ODCmrAfeadB1OpHtzif6c1hH4F9yq_-uylX6zugw1BJ8y_vc6-5cLHh9Qreb4WvhP1ry-F30CGiUA/s1280/WhatsApp%20Image%202022-11-13%20at%2000.29.35.jpeg)
 
+## Tech
+
+- Visual Studio 2010
+- Crystal Report runtime 13
+- Microsoft Access 2013 Engine
+
+
+
